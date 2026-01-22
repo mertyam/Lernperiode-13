@@ -7,5 +7,12 @@ Letzte Lernperiode war sehr gut und ich konnte vieles erledigen. Diese Lernperio
 ## 16.01.2026
 
 - [ ] Projekt überlegen
+- [x] Motivationsschreiben
+- [x] Arbeit an Modul 241
+
+
+## 23.01.2026
+
+- [ ] Projekt überlegen
+- [ ] Projekt planen/anfangen
 - [ ] Motivationsschreiben
-- [ ] Arbeit an Modul 241
