@@ -10,6 +10,7 @@ Letzte Lernperiode war sehr gut und ich konnte vieles erledigen. Diese Lernperio
 - [x] Motivationsschreiben
 - [x] Arbeit an Modul 241
 
+Ich habe viel Zeit aufgewendet um ein Motivationsschreiben für ein neues Unternehmen zu schreiben. Ich musste mich erst über das Unternhemen informieren und dann erst das Schreiben anfangen. Ich habe auch noch an dem Modul 241 gearbeitet. (Innovation) Ich würde gerne auch einmal noch am meinem Ciso Freifach arbeiten (JavaScript), wenn ich Zeit dafür finde.
 
 ## 23.01.2026
 
