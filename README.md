@@ -28,9 +28,18 @@ Ich habe heute erneut ein Motivationsschreiben verfasst. Danach habe ich angefan
 
 Heute habe ich viel Zeit damit verschaftt herauszufinden wie ich am besten die Zahlen in der Konsole anzeige. Ich habe mich für eine 3x3 Matrix entschieden und diese beiden Zeichen _ |. Danach habe ich die Zahlen erst skiziert und dann weiter überlegt wie ich die Zahlen nebeneinander darstellen kann da ich ja nicht mehrere Zeilen in einem String speichern und ausgeben kann für jede einzelen Zahl. Ich musste zum Entschluss kommen jede Zeile einzel zu drucken. Darum habe ich direkt ein Model Class erstellt mit den 3 Properties: Zeile1, Zeile2, Zeile3. Diese kann ich dnan später für jede ienzelen Zahl füllen und in eine Liste packen.
 
-## 26.02.2026
+## 27.02.2026
 
-- [ ] Mit dem Programmieren anfangen richtig -->
-- [ ] Klassen erstellen (Ausgabe, Eingabe etc)
-- [ ] Logik für Eingabe schreiben
-- [ ] Placeholder Code für Ausgabe schreiben
+- [x] Mit dem Programmieren anfangen richtig -->
+- [x] Klassen erstellen (Ausgabe, Eingabe etc)
+- [x] Logik für Eingabe schreiben
+- [x] Placeholder Code für Ausgabe schreiben
+
+## 06.03.2026
+
+- [x] Zahlen Möglichkeit erstellen
+- [x] Logik ausarbeiten
+
+## 20.03.2026
+
+- [ ] Ausgabe beenden
