@@ -42,4 +42,11 @@ Heute habe ich viel Zeit damit verschaftt herauszufinden wie ich am besten die Z
 
 ## 20.03.2026
 
-- [ ] Ausgabe beenden
+- [x] Ausgabe beenden
+
+## 27.03.2026
+
+- [x] Fehler beheben
+- [ ] Anfangen Neue Projektidee zu suchen
+
+Ich hatte heute leider viel mit Fehlern zu kämpfen, die Ausgabe war immer ein bisschen verschoben teilweise. Das hat mich mehr Zeit als eigentlich nötig wär gekostet aber schlussendlich konnte ich dafür sorgen das die Ausgabe sauber war.
